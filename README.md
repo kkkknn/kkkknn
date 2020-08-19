@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![展示](https://github.com/kkkknn/kkkknn/blob/master/121.gif)
+![image](https://github.com/kkkknn/kkkknn/blob/master/121.gif)
 
 
