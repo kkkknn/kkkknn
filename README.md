@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/kkkknn/kkkknn/blob/master/121.gif"/>
-![image](https://github.com/kkkknn/kkkknn/blob/master/121.gif)
+![image](http://github.com/kkkknn/kkkknn/blob/master/404.png)
 
 
