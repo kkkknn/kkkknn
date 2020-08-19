@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![展示](https://github.com/kkkknn/kkkknn/raw/master/121.gif)
+
+
