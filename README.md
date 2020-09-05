@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-平时做些感兴趣的项目，目前还在学习android
+平时做些感兴趣的项目，目前还在学习android。
 
 ![image]( https://s1.ax1x.com/2020/08/19/dQWHIJ.gif)
 
